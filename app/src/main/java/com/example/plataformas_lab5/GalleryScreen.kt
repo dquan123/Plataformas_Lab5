@@ -1,4 +1,4 @@
-package com.example.laboratorio5
+package com.example.plataformas_lab5
 
 import android.R.attr.onClick
 import android.R.attr.padding
@@ -17,6 +17,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ModifierLocalBeyondBoundsLayout
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
+import com.example.plataformas_lab5.GalleryViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

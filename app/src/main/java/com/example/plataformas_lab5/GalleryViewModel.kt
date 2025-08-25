@@ -1,4 +1,4 @@
-package com.example.laboratorio5
+package com.example.plataformas_lab5
 
 import android.net.Uri
 import androidx.lifecycle.ViewModel
